@@ -1,4 +1,4 @@
-package Muaaz;
+package Musaib;
 
 class University {
     String name = "ABC University";
